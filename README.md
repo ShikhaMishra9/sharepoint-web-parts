@@ -19,3 +19,6 @@ We have identified four possible solutions:
 1. Create a web part in React and deploy it to the app catalog
 
 We’ll with an MVP using a Sharepoint List as a data source, then look into either Power BI or a Power App.
+
+#Link for PowerApp:
+https://eu.create.powerapps.com/studio/
